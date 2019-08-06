@@ -1,0 +1,1 @@
+This is Seth Rockenmacher's first git project!
